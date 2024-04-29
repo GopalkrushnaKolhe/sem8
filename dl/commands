@@ -1,0 +1,7 @@
+g++ file.cpp -o app
+
+Next command 
+./app
+
+  nvcc .cu
+  ./a.out
